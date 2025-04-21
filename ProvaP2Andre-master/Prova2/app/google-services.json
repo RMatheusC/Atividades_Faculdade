@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793829121890",
+    "firebase_url": "https://provaandre-37ae8.firebaseio.com",
+    "project_id": "provaandre-37ae8",
+    "storage_bucket": "provaandre-37ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793829121890:android:fa5089887919df0834963b",
+        "android_client_info": {
+          "package_name": "com.example.prova2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793829121890-iso6pkieipf32fk0k5mgct3jeq7826nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prova2",
+            "certificate_hash": "002c4f4bf12bd296af4997e52d04447cf00eff89"
+          }
+        },
+        {
+          "client_id": "793829121890-r2qp7gkphshei99fo41cb9qab415phk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeJh7NHPUKtph9-AxxtddHyc0N0MtzTZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793829121890-r2qp7gkphshei99fo41cb9qab415phk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

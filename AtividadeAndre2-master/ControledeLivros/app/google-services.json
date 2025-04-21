@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301726223498",
+    "firebase_url": "https://aula-livros.firebaseio.com",
+    "project_id": "aula-livros",
+    "storage_bucket": "aula-livros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301726223498:android:a5ff34f74a2df4d156f173",
+        "android_client_info": {
+          "package_name": "com.example.controledelivros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301726223498-mol280h6k9s6kmqjhm3oee1bes6o0as2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.controledelivros",
+            "certificate_hash": "4d1fa093030305b3c6af9d43053f62059fa59525"
+          }
+        },
+        {
+          "client_id": "301726223498-ipubks26f36v2esm00tvtsqdek8qmbmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmsaq9bY8GYP29AdEqYVuUZUa6ckfgbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301726223498-ipubks26f36v2esm00tvtsqdek8qmbmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppVeiculo</string>
+    <string name="Novo_veiculo">Adiconar Novo Veiculo</string>
+    <string name="Novo_abastecimento">Adiconar Novo Abastecimento</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="listar">Listar</string>
+    <string name="editar">Editar</string>
+    <string name="Voltar">Voltar</string>
+    <string name="Procurar">Procurar</string>
+
+    <string name="nome_veiculo">Entre com o Nome do Veiculo</string>
+    <string name="placa_veiculo">Entre com a placa do Veiculo</string>
+    <string name="ano_veiculo">Entre com o ano do Veiculo</string>
+
+    <string name="valor_abastecimento">Entre com o Valor do Abastecimento</string>
+    <string name="placa_abastecimento">Entre com a placa do Veiculo Abastecido</string>
+    <string name="Tipo_abastecimento">Entre com o conteudo colocado no veiculo</string>
+    <string name="Excluir_carro">Entre com a placa do carro que deseja excluir</string>
+    <string name="Editar_carro">Entre com a placa</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Controle de Livros</string>
+    <string name="button_AbrirCadastro">Cadastrar Livro</string>
+    <string name="cadastrarLivro">Cadastrar Novo Livro</string>
+    <string name="Titulo_Campo">Titulo do Livro</string>
+    <string name="autor_Campo">Autor do Livro</string>
+    <string name="ano_Campo">Ano em que o Livro foi publicado</string>
+    <string name="estado_Campo">Estado (Lendo, Completo e não iniciado)</string>
+    <string name="pagina_Campo">Ultima Pagina Lida</string>
+    <string name="botao_Editar">Editar Livro</string>
+</resources>
